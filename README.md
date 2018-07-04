@@ -2,7 +2,7 @@
 
 
 
-本仓库已经开始作为gitbook仓库，访问地址
+本仓库已经开始作为GitBook仓库，访问地址
 
 <https://yifengyou.gitbooks.io/linux-net-1-2-13/content/>
 
@@ -47,3 +47,9 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
   - 第8章　系统网络栈初始化　
 * 附录A　TCP协议可靠性数据传输实现原理分析　
 * 主要参考文献
+
+
+![1530664112219.png](image/1530664112219.png)
+
+
+![1530664122693.png](image/1530664122693.png)
