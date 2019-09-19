@@ -1,14 +1,11 @@
 # Linux 1.2.13网络协议栈学习笔记
 
 
+## 相关站点
 
-本仓库已经开始作为GitBook仓库，访问地址
-
-<https://yifengyou.gitbooks.io/linux-net-1-2-13/content/>
-
-GitHub访问地址
-
-<https://github.com/yifengyou/linux-net-1.2.13/>
+* <https://yifengyou.gitbooks.io/linux-net/content/>
+* <https://github.com/yifengyou/linux-net/>
+* <https://yifengyou.github.io/linux-net/>
 
 ```
 Something I hope you know before go into the coding~
@@ -28,28 +25,15 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 《Linux内核网络栈源代码情景分析》适合Linux网络开发人员及Linux内核爱好者阅读。
 
+## 目录
 
-## 《Linux内核网络栈源代码情景分析》目录
-
-* 第1部分　网络栈总体架构
-  - 第0章　网络栈总体架构分析　
-* 第2部分　网络协议
-  - 第1章　网络协议头文件分析　
-* 第3部分　网络栈实现分析
-  - 第2章　BSD socket层实现分析　
-  - 第3章　INET socket层实现分析
-  - 第4章　传输层实现分析
-  - 第5章　网络层实现分析
-  - 第6章　链路层实现分析
-* 第4部分　网络设备驱动程序
-  - 第7章　网络设备驱动程序分析　
-* 第5部分　系统网络栈初始化
-  - 第8章　系统网络栈初始化　
-* 附录A　TCP协议可靠性数据传输实现原理分析　
-* 主要参考文献
-
-
-![1530664112219.png](image/1530664112219.png)
-
-
-![1530664122693.png](image/1530664122693.png)
+* [第0章-网络栈总体架构分析](docs/第0章-网络栈总体架构分析/第0章-网络栈总体架构分析.md)
+* [第1章-网络协议头文件分析](docs/第1章-网络协议头文件分析/第1章-网络协议头文件分析.md)
+* [第2章-BSD socket层实现分析](docs/第2章-BSD socket层实现分析/第2章-BSD socket层实现分析.md)
+* [第3章-INET socket层实现分析](docs/第3章-INET socket层实现分析/第3章-INET socket层实现分析.md)
+* [第4章-传输层实现分析](docs/第4章-传输层实现分析/第4章-传输层实现分析.md)
+* [第5章-网络层实现分析](docs/第5章-网络层实现分析/第5章-网络层实现分析.md)
+* [第6章-链路层实现分析](docs/第6章-链路层实现分析/第6章-链路层实现分析.md)
+* [第7章-网络设备驱动程序分析　](docs/第7章-网络设备驱动程序分析　/第7章-网络设备驱动程序分析　.md)
+* [第8章-系统网络栈初始化](docs/第8章-系统网络栈初始化/第8章-系统网络栈初始化.md)
+* [勘误](docs/勘误/勘误.md)
